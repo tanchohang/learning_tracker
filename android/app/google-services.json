@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041181888553",
+    "project_id": "learning-tracker-3c530",
+    "storage_bucket": "learning-tracker-3c530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041181888553:android:0ac8cf67f18c6461a20c38",
+        "android_client_info": {
+          "package_name": "com.example.learning_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041181888553-76lv0kpjav0doafg5k0dprla8i8ganmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learning_tracker",
+            "certificate_hash": "830d28755bb8dc9a2395d4448676fd48acc5eb2a"
+          }
+        },
+        {
+          "client_id": "1041181888553-chocicd2ocr37qqamrfvo2htag0mk5m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2EDE1YCyCOeWGnORReTjT-RdG6lA2Ngs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041181888553-chocicd2ocr37qqamrfvo2htag0mk5m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
